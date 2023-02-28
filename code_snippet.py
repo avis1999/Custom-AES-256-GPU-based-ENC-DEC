@@ -1,4 +1,4 @@
-The following is an example code snippet for implementing GPU-based AES 256 encryption and decryption using the PyCUDA library:
+#The following is an example code snippet for implementing GPU-based AES 256 encryption and decryption using the PyCUDA library:
 
 import pycuda.driver as cuda
 import pycuda.autoinit
